@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bubble Sort</string>
+    <string name="sort">Sort</string>
+    <string name="pop">pop</string>
+    <string name="value">value</string>
+    <string name="clear">Clear</string>
+</resources>
+
